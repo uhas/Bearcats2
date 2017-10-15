@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-    <title>Profile</title>
+    <title>Bootstrap</title>
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -57,7 +57,7 @@
                             <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item active">
-                            <a class="nav-link" href="profile.html">Profile</a>
+                            <a class="nav-link" href="LOG-IN.html">Profile</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="careerpage.html">Career pages</a>
@@ -66,7 +66,7 @@
                             <a class="nav-link" href="tutorials.html">Tutorials</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="forums.html">Forums</a>
+                            <a class="nav-link" href="LOG-IN.html">Forums</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="networking.html">Networking Sites</a>
@@ -83,5 +83,34 @@
             </div>
         </nav>
         </header>
+
+            <div class="container">
+            <div class="login">
+                <div class="panel panel-primary box">
+                    <div class="panel-heading">
+                        SIGN IN
+                    </div>
+                    <div class="panel-body">
+                        <form role="form" action="index.php" method="post" style="margin-top:8%;">
+                            <div class="input-group">
+                                <input type="text" name="usr" class="form-control" placeholder="Username">
+                                <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
+                            </div>
+                            <br/><br/>
+                            <div class="input-group">
+                                <input type="password" name="pwd" class="form-control" placeholder="Password">
+                                <span class="input-group-addon"><span class="glyphicon glyphicon-lock"></span></span>
+                            </div>
+                                <input type="submit" name="submit" value="submit" class="btn btn-sky submit" style="border-radius:10px;margin-top:8%;font-style:bold;">
+           
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
         </body>
         </html>
