@@ -1,40 +1,5 @@
-Material Design for Bootstrap
-
-Version: MDB Free 4.4.0 Beta
-
-Documentation:
-http://mdbootstrap.com/
-
-Getting started:
-http://mdbootstrap.com/getting-started/
-
-FAQ
-http://mdbootstrap.com/faq/
-
-Support:
-http://mdbootstrap.com/forums/forum/support/
-
-Tutorials:
-MDB-Bootstrap: http://mdbootstrap.com/bootstrap-tutorial/
-MDB-Wordpress: http://mdbootstrap.com/wordpress-tutorial/
-
-ChangeLog
-https://mdbootstrap.com/changelog/
-
-Templates:
-http://mdbootstrap.com/templates/
-
-Freebies
-https://mdbootstrap.com/freebies/
-
-License:
-http://mdbootstrap.com/license/
-
-Facebook: https://facebook.com/mdbootstrap
-Twitter: https://twitter.com/MDBootstrap
-Google+: https://plus.google.com/u/0/+Mdbootstrap/posts
-Dribbble: https://dribbble.com/mdbootstrap
-
-
-Contact:
-office@mdbootstrap.com
+ C2C
+ 
+ This is a website that we have created to help people transition from a student to a professional. we believed that there was a lot of information scattered through out the web on this topic. But it was hard to find. So, we brought all the useful information to one place. We provided links to various websites, that we thought provided best tutorials regarding a specific topic. We created a search feature so that the users can easily access the career pages of some popular companies. A lot more companies can be added based on the requirement. We also provided a forums page that provides a platform for the users to ask questions and get answers from professionals(this feature is a great concept and has not been implemented yet into our website).
+  We think that networking plays a major role in getting a job, especially in corporate world. so we provided links to various professional networking sites that help students to connect with like-minded people and increase their chance of getting their dream job. We would really like your review  on our work and other ways to improve it. So, we provided our LinkedIn profiles so that you can contact us and provide your valuable feedback. 
+ 
